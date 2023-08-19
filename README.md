@@ -155,4 +155,4 @@ Response:
 ```
 
 ## Автор
-- [Александр Матияка](https://github.com/alexsevv)
+- [Александр Матияка](https://github.com/alexmatiya)
